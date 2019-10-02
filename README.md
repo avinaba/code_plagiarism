@@ -1,4 +1,3 @@
-# Source Code Plagiarisation and Detection
+# Source Code Plagiarisation Detection
 
-## Abstract 
 Extending plagiarisation detection techniques for source codes. 
