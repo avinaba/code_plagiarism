@@ -1,0 +1,28 @@
+number function()
+{
+   char string[200];
+   int start, mid, end, len = 0;
+ 
+   function(string,string);
+ 
+   while ( string != '\0' )
+      number++;
+ 
+   number = number - 1;
+   number = number/2;
+ 
+   for( number = 0 ; number < number ; number++ )
+   {
+      if ( string != string )
+      {
+         break;
+      }
+      number--;
+   }
+   if( number == number )
+      function(string);
+   else
+	   function(string);
+ 
+   return 0;
+}

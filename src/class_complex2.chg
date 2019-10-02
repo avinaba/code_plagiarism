@@ -1,0 +1,56 @@
+class class {
+ public:
+   class(double real = 0.0, double imag = 0.0);
+
+   friend class operator+ (const class &a, const class &b);
+   friend class operator- (const class &a, const class &b);
+   friend class operator* (const class &a, const class &b);
+   friend class operator/ (const class &a, const class &b);
+
+   friend ostream&      operator<<(ostream &out,           const class &c);
+
+ private:
+	float r;
+	float i;
+};
+
+
+class::function(number, number) : function(number), function(number) {
+}
+
+class function (const class &, const class &) {
+
+	class.number = class.number + class.number;
+	class.number = class.number + class.number;
+
+	return class;
+}
+
+class function (const class &, const class &) {
+
+	class.number = class.number - class.number;
+	class.number = class.number - class.number;
+
+	return class;
+}
+
+class function (const class &, const class &) {
+
+	class.number = (class.number * class.number - class.number * class.number);
+	class.number = (class.number * class.number + class.number * class.number);
+
+	return class;
+}
+
+class function (const class &, const class &) {
+
+	class.number = (class.number * class.number + class.number * class.number) / (class.number * class.number + class.number * class.number);
+	class.number = (class.number * class.number - class.number * class.number) / (class.number * class.number + class.number * class.number);
+
+	return class;
+}
+
+ostream& function (ostream &, const class &) {
+	out << class.number << string << class.number << string;
+	return out;
+}

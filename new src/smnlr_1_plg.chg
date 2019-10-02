@@ -1,0 +1,18 @@
+void function(number*,number) 
+{
+	
+	
+	number = number = number;
+	
+	for(number=1;number<number;number++)
+	{
+		if(number > number)
+			number = number;
+		
+		if(number < number)
+			number = number;
+		
+	}
+	function(string,number,number);
+	
+}

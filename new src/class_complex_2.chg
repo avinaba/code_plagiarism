@@ -1,0 +1,39 @@
+class::function(number, number) : function(number), function(number) {
+}
+
+class function (const class &, const class &) {
+
+	class.number = class.number + class.number;
+	class.number = class.number + class.number;
+
+	return class;
+}
+
+class function (const class &, const class &) {
+
+	class.number = class.number - class.number;
+	class.number = class.number - class.number;
+
+	return class;
+}
+
+class function (const class &, const class &) {
+
+	class.number = (class.number * class.number - class.number * class.number);
+	class.number = (class.number * class.number + class.number * class.number);
+
+	return class;
+}
+
+class function (const class &, const class &) {
+
+	class.number = (class.number * class.number + class.number * class.number) / (class.number * class.number + class.number * class.number);
+	class.number = (class.number * class.number - class.number * class.number) / (class.number * class.number + class.number * class.number);
+
+	return class;
+}
+
+class& function (class &, const class &) {
+	object << class.number << string << class.number << string;
+	return object;
+}

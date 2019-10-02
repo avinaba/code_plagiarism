@@ -1,0 +1,16 @@
+number function(number, number) 
+{
+	if( number == 0 )
+		return 1;
+	else if (number == 1)
+		return number;
+	else 
+	{
+		number = function(number/2);
+		if(number%2 == 0)
+			return number*number;
+		else
+			return number*number*number;
+	}
+
+}

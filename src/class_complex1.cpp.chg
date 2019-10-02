@@ -1,0 +1,71 @@
+
+void function(number,number, object&, object&);
+
+class::function(){
+real = imag = 0;
+}
+
+class::function(number){
+number = number;
+number = 0;
+}
+
+class::function(number, number){
+number = number;
+number = number;
+}
+
+class::function(object&){
+number = object.number;
+number = object.number;
+}
+
+object class::object(object){
+
+object.number = number + object.number;
+object.number = number + object.number;
+return object;
+}
+object class::function(object){
+
+object.number = number - object.number;
+object.number = number - object.number;
+return object;
+}
+
+object class::function(object){
+
+object.number = number*object.number - number*object.number;
+object.number = number*object.number + object.number*number;
+return object;
+}
+object class::function(object){
+
+object.number = (number*object.number+number*object.number)/(object.number*object.number + object.number*object.number);
+object.number = (number*object.number-number*object.number)/(object.number*object.number + object.number*object.number);
+return object;
+}
+
+void class::function(){
+object << string << number << string << number << string << object;
+}
+
+void function(number, number,object&, object&){
+object.function(number);
+object.function(number);
+object.function(0);
+object.function(0);
+}
+
+number class::function() const{
+return number;
+}
+number class::function() const{
+return number;
+}
+void class::function(number){
+number = number;
+}
+void class::function(number){
+number = number;
+}

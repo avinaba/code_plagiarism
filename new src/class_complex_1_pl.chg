@@ -1,0 +1,52 @@
+class::function(number =0,number =0){
+number = number;
+number = number;
+}
+
+class::function(class &){
+number = class.number;
+number = class.number;
+}
+
+class class::function(class ){
+class.number = number + class.number;
+class.number = number + class.number;
+return class;
+}
+class class::function(class ){
+class.number = number - class.number;
+class.number = number - class.number;
+return class;
+}
+class class::function(class ){
+class.number = number*class.number - number*class.number;
+class.number = number*class.number + number*class.number;
+return class;
+}
+class class::function(class ){
+class.number = (number*class.number+number*class.number)/(class.number*class.number + class.number*class.number);
+class.number = (number*class.number-number*class.number)/(class.number*class.number + class.number*class.number);
+return class;
+}
+
+void class::function(){
+object << string << number << string << number << string << string;
+}
+
+number class::function() const{
+return number;
+}
+number class::function() const{
+return number;
+}
+void class::function(number ){
+number = number;
+}
+void class::function(number){
+number = number;
+}
+
+void class::function(){
+	function(0);
+	function(0);
+}

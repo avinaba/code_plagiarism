@@ -1,0 +1,11 @@
+number function(number, number) 
+{
+	number=1;
+	
+	for(number=0;number<number;number++)
+	{
+		number = number * number;
+	}
+	
+	return number;
+}

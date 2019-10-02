@@ -1,0 +1,16 @@
+void function(number*,number) 
+{
+	number min,max;
+	
+	number = number = number;
+	
+	for(number = 1; number<number; number++)
+	{
+		if(number < number)
+			number = number;
+		if(number > number)
+			number = number;
+	}
+	function(string, number);
+	function(string, number);
+}

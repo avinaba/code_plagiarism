@@ -1,0 +1,11 @@
+Program1,Program2,similarity
+class_complex1.cpp,class_complex_1_pl.cpp,61.4238
+class_complex1.cpp,class_complex2.cpp,30.1813
+palindrome_1.c,palindrome_1_pl.c,43.3544
+palindrome_1.c,palindrome_2.c,17.0074
+power1.c,power1_plg.c,62.5
+power1.c,power_2.c,36.5854
+power_2.c,power_2_plg.c,69.403
+smnlr_1.c,smnlr_1_plg.c,51.1013
+smnlr_1.c,smnlr_2.c,89.7233
+smnlr_2.c,smnlr_2_plg.c,63.6364

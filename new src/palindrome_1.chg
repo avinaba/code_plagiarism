@@ -1,0 +1,25 @@
+number function()
+{
+ 
+   function(string);
+ 
+   while ( string != '\0' )
+      number++;
+ 
+   number = number - 1;
+   number = number/2;
+ 
+   for( number = 0 ; number < number ; number++ )
+   {
+      if ( string != string )
+      {
+         function(string);
+         break;
+      }
+      number--;
+   }
+   if( number == number )
+      function(string);
+ 
+   return 0;
+}

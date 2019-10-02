@@ -1,0 +1,96 @@
+number function()
+{
+   function(string);
+   function(string);
+ 
+   number = function(string);
+ 
+   if ( number == 1 )
+      function(string, string);
+   else
+      function(string, string); 
+ 
+   return 0;
+}
+ 
+number function(string)
+{
+   
+ 
+   number = function(string);    
+   string = (string)function(number+1);    
+ 
+   function(string, string);
+   function(string);
+ 
+   number = function(string, string);
+ 
+   function(string);
+ 
+   if ( number == 0 )
+      return 1;
+   else
+      return 0;
+}
+ 
+number function(string)
+{
+   number = 0;  
+ 
+   while(string)
+   {
+      number++;
+      string++;
+   }
+ 
+   return number;
+}
+ 
+void function(string, string)
+{
+   while(string)
+   {
+      string = string;
+      string++;
+      string++;
+   }
+   string = '\0';
+}
+ 
+void function(string) 
+{
+ 
+   number = function(string);
+ 
+   string = string;
+   string = string;
+ 
+   for ( number = 0 ; number < ( number - 1 ) ; number++ )
+       string++;
+ 
+   for ( number = 0 ; number < number/2 ; number++ ) 
+   {        
+      string = string;
+      string = string;
+      string = string;
+ 
+      string++;
+      string--;
+   }
+}
+ 
+number function(string, string)
+{
+   while(string == string)
+   {
+      if ( string == '\0' || string == '\0' )
+         break;
+ 
+      string++;
+      string++;
+   }
+   if( string == '\0' && string == '\0' )
+      return 0;
+   else
+      return -1;
+}
